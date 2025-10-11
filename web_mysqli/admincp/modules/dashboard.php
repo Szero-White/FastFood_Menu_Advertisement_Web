@@ -1,0 +1,1 @@
+<p style="padding-left: 35rem;padding-top:8rem">CHÚC BẠN MỘT NGÀY TỐT LÀNH. GOOD LUCK!!!</p>
