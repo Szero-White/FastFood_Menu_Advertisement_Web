@@ -41,7 +41,7 @@
 
 ---
 
-## 🔑 Các chức n��ng chính
+## 🔑 Các chức năng chính
 
 ### 👥 Phân quyền
 
